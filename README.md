@@ -1,1 +1,2 @@
 # ScanLite
+ScanLite es una version mas liguera del script Scan, ya que no utiliza nmap y no consume tantos recursos, lo malo es que no te suele decir todos los puertos que estan abiertos de una IP, solo dice los puertos mas importantes como el 22/SSH o el 80/HTTP por lo que no se recomienda usarlo para auditorias, pentest ni tareas de mantenimiento, si quiere una herramienta que si sirva para estas cosas es Scan (tambien programada por mi y esta en mi GitHub)
