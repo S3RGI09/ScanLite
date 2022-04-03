@@ -14,7 +14,8 @@ print("|____/ \____/_/   \_\_| \_| |_|_|\__\___|")
 print()
 
 print("Herramienta creada por S3RGI09 (Sergio Casero Verdial)")
-print("------------------------------------------------------")
+print("Si va a hacer pentest, auditorias o mantenimiento descarge Scan en mi GitHub")
+print("----------------------------------------------------------------------------")
 objetivo= socket.gethostbyname(input("Inserte la direccion IP: "))
 print("------------------------------------------------------")
 
